@@ -1,6 +1,6 @@
 # <div align="center">CraftingCoders</div>
 <div align="center">
-  <img src="[logo.jpg](https://raw.githubusercontent.com/CraftingCoders/.github/main/logo.jpg)" alt="CraftingCoders Logo" width="300">
+  <img src="logo.jpg" alt="CraftingCoders Logo" width="300">
 </div>
 
 ---
