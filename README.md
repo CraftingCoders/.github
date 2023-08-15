@@ -1,6 +1,6 @@
 # <div align="center">CraftingCoders</div>
 <div align="center">
-  <img src="logo.png" alt="CraftingCoders Logo" width="300">
+  <img src="logo.jpg" alt="CraftingCoders Logo" width="300">
 </div>
 
 ---
@@ -26,7 +26,7 @@ Somos un equipo de expertos en programación y configuración de servidores de M
 ¡Estamos listos para trabajar en tu próximo proyecto de Minecraft! Si estás interesado en nuestros servicios o simplemente quieres saber más, no dudes en contactarnos:
 
 - Sitio web: [www.craftingcoders.com](https://www.craftingcoders.com)
-- Correo electrónico: contact@craftingcoders.com
+- Correo electrónico: bytessavvy@gmail.com
 - ¡Síguenos en Twitter [@CraftingCoders](https://twitter.com/CraftingCoders) para las últimas actualizaciones!
 
 ---
